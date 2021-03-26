@@ -20,6 +20,12 @@ TextureImporter:
   - first:
       213: 1436487149800027896
     second: TileMap_StarShip_5
+  - first:
+      213: 355941673235390454
+    second: TileMap_StarShip_6
+  - first:
+      213: -6881109953866511435
+    second: TileMap_StarShip_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -226,6 +232,48 @@ TextureImporter:
       bones: []
       spriteID: 8f67e30b37d6fe310800000000000000
       internalID: 1436487149800027896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_StarShip_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 247
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff14f1e01f80f400800000000000000
+      internalID: 355941673235390454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_StarShip_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 248
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbc16364f26180a0800000000000000
+      internalID: -6881109953866511435
       vertices: []
       indices: 
       edges: []
